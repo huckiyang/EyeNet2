@@ -29,7 +29,9 @@ python run_training.py
 
 
 ## PR-Curve of U-Net for Retina 
-![PR-Curve](https://github.com/huckiyang/EyeNet2/blob/master/src/Precision_recall.png)
+
+<img src="https://github.com/huckiyang/EyeNet2/blob/master/src/Precision_recall.png" width="400">
 
 ## ROC of U-Net for Retina 
-![ROC](https://github.com/huckiyang/EyeNet2/blob/master/src/ROC.png)
+
+<img src="https://github.com/huckiyang/EyeNet2/blob/master/src/ROC.png" width="400">
