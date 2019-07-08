@@ -1,4 +1,4 @@
-# EyeNet2
+# EyeNet2, U-Net on Drive, ACCV 2018
 If you think this repo helps your research, please consider ref this paper (ACCV Workshop 2018, oral.) Thanks!
 
 [Yang, C-H. Huck, et al. "Auto-classification of retinal diseases in the limit of sparse data using a two-streams machine learning model." Asian Conference on Computer Vision. Springer, Cham, 2018.](https://arxiv.org/pdf/1808.05754.pdf)
@@ -14,6 +14,12 @@ If you think this repo helps your research, please consider ref this paper (ACCV
 }
 ```
 Supplymentary 2019
+
+# Run
+
+```shell
+python run_training.py
+```
 
 ## Demo: U-Net Segmentation of Retinal Vessel
 ![UNet](https://github.com/huckiyang/web/blob/gh-pages/assets/img/Unet.png)
