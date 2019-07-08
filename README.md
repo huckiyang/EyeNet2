@@ -22,7 +22,8 @@ python run_training.py
 ```
 
 ## Demo: U-Net Segmentation of Retinal Vessel
-![UNet](https://github.com/huckiyang/web/blob/gh-pages/assets/img/Unet.png)
+
+<img src="https://github.com/huckiyang/web/blob/gh-pages/assets/img/Unet.png" width="150">
 
 (a) Test Image (b) Ground Truth (c) Automatic Segementation after U-Net Image Model 
 
