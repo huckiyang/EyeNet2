@@ -1,6 +1,8 @@
 # EyeNet2, U-Net Segementation on Drive, ACCV 2018
 If you think this repo helps your research, please consider ref this paper (ACCV Workshop 2018, oral.) Thanks!
 
+Georgia Tech, KAUST, U Kyoto
+
 [Yang, C-H. Huck, et al. "Auto-classification of retinal diseases in the limit of sparse data using a two-streams machine learning model." Asian Conference on Computer Vision. Springer, Cham, 2018.](https://arxiv.org/pdf/1808.05754.pdf)
 
 ```
