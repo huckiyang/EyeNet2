@@ -1,6 +1,6 @@
 # EyeNet2, U-Net Segementation on Drive, ACCV 2018
 If you think this repo helps your research, please consider ref this paper (ACCV Workshop 2018, oral.) Thanks!
-A U-Net Segmentation is trained on the classical ![Drive](https://drive.grand-challenge.org/) dataset. (was released in 2017)
+A U-Net Segmentation is trained on the classical ![Drive](https://drive.grand-challenge.org/) dataset. (our model was released in 2017)
 
 Georgia Tech, KAUST, Kyoto U
 
