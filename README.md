@@ -1,5 +1,6 @@
 # EyeNet2, U-Net Segementation on Drive, ACCV 2018
 If you think this repo helps your research, please consider ref this paper (ACCV Workshop 2018, oral.) Thanks!
+A U-Net Segmentation is trained on the classical ![Drive](https://drive.grand-challenge.org/) dataset. (was released in 2017)
 
 Georgia Tech, KAUST, Kyoto U
 
@@ -25,7 +26,7 @@ python run_training.py
 
 ## Demo: U-Net Segmentation of Retinal Vessel
 
-<img src="https://github.com/huckiyang/web/blob/gh-pages/assets/img/Unet.png" width="400">
+<img src="https://github.com/huckiyang/huckiyang.github.io/blob/master/assets/img/Unet.png" width="400">
 
 (a) Test Image (b) Ground Truth (c) Automatic Segementation after U-Net Image Model 
 
