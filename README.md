@@ -4,7 +4,7 @@ A U-Net Segmentation is trained on the classical [Drive](https://drive.grand-cha
 
 Georgia Tech, KAUST, Kyoto U
 
-[Yang, C-H. Huck, et al. "Auto-classification of retinal diseases in the limit of sparse data using a two-streams machine learning model." Asian Conference on Computer Vision. Springer, Cham, 2018.](https://arxiv.org/pdf/1808.05754.pdf)
+[Yang, C-H. Huck, Fangyu Liu et al. "Auto-classification of retinal diseases in the limit of sparse data using a two-streams machine learning model." Asian Conference on Computer Vision. Springer, Cham, 2018.](https://arxiv.org/pdf/1808.05754.pdf)
 
 ```
 @inproceedings{yang2018auto,
