@@ -2,7 +2,7 @@
 If you think this repo helps your research, please consider ref this paper (ACCV Workshop 2018, oral.) Thanks!
 A U-Net Segmentation is trained on the classical [Drive](https://drive.grand-challenge.org/) (Utrecht University) dataset. (our model was released in 2017)
 
-Georgia Tech, KAUST, Kyoto U
+Georgia Tech, KAUST, U Waterloo Kyoto U
 
 [Yang, C-H. Huck, Fangyu Liu et al. "Auto-classification of retinal diseases in the limit of sparse data using a two-streams machine learning model." Asian Conference on Computer Vision. Springer, Cham, 2018.](https://arxiv.org/pdf/1808.05754.pdf)
 
